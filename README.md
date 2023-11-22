@@ -26,7 +26,7 @@
 
 🚀   I’m currently learning Power BI and SQL .
 
-👨🏻‍💻   Most of my projects are available on Github:
+👨🏻‍💻   Most of my projects are available on Github:https://github.com/erabattiamit
 
 📫   Reach me on Linkedin:https://www.linkedin.com/in/amit-erabatti-b6830278/
 
