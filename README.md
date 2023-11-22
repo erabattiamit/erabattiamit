@@ -36,6 +36,8 @@
 
 📊   Checkout my Power BI Projects.
 
+📊   Checkout my Advanced Excel Projects.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
