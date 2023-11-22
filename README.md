@@ -20,8 +20,22 @@
      Power BI
  
      SQL (MySQL)
- 
-- 📫 How to reach me **erabattiamit@gmail.com**
+
+  Talking about Personal Stuffs:
+🛠   I’m currently working with Python, SQl and Excel
+
+🚀   I’m currently learning Power BI and SQL .
+
+👨🏻‍💻   Most of my projects are available on Github:
+
+📫   Reach me on Linkedin:https://www.linkedin.com/in/amit-erabatti-b6830278/
+
+📫   Reach me on Gmail:**erabattiamit@gmail.com**
+
+📝   Checkout my Resume:
+
+📊   Checkout my Power BI Projects.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
