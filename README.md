@@ -19,7 +19,7 @@
  
      Power BI
  
-     SQL (MySQL)
+     SQL (MS SQL server)
 
   Talking about Personal Stuffs:
 🛠   I’m currently working with Python, SQl and Excel
