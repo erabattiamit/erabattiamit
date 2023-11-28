@@ -32,7 +32,7 @@
 
 📫   Reach me on Gmail:**erabattiamit@gmail.com**
 
-📝   Checkout my Resume:
+📝   Checkout my Resume: https://drive.google.com/file/d/1bhjyoAjC4xZ8FhhGLN3fYC-knbmOl8RI/view?usp=sharing
 
 📊   Checkout my Power BI Projects.
 
