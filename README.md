@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erabattiamit&label=Profile%20views&color=0e75b6&style=flat" alt="erabattiamit" /> </p>
 
-- 🌱 I have studied and currently working on python, SQL, Power BI, Advanced Excel and machine learning algorithms focusing on data analytics and business solutions. For more details about my projects and each solution, you can check my github repositories.
+- 🌱 I have studied and currently working on machine learning, python, SQL, Power BI, Advanced Excel and algorithms focusing on data analytics and business solutions. For more details about my projects and each solution, you can check my github repositories.
 
 - SKILLS
   
