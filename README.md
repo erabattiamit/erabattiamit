@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Erabatti</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erabattiamit&label=Profile%20views&color=0e75b6&style=flat" alt="erabattiamit" /> </p>
 
@@ -34,7 +34,7 @@ insights and enhance operational efficiency. For more details about my projects 
 
 📫   Reach me on Linkedin:https://www.linkedin.com/in/amit-erabatti-b6830278/
 
-📫   Reach me on Gmail:**erabattiamit@gmail.com**
+📫   Reach me on Gmail:**amit100690@gmail.com**
 
 📝   Checkout my Resume: https://drive.google.com/file/d/1UzGL_GTh1DtaBrLjrYDXpD_mWXmQVoPu/view?usp=sharing
 
