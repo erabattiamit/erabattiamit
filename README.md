@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erabattiamit&label=Profile%20views&color=0e75b6&style=flat" alt="erabattiamit" /> </p>
 
-- 🌱 I have studied and currently working on python, SQL, Power BI, Advanced Excel and machine learning algorithms focusing on data analytics and business solutions. For more details about my projects and each solution, you can check my github repositories.
+- 🌱 Data Scientist and Machine Learning enthusiast skilled in Python, SQL, Machine Learning and Deep Learning.
+Experienced in predictive modeling, exploratory data analysis, and dashboard development to deliver actionable
+insights and enhance operational efficiency. For more details about my projects and each solution, you can check my github repositories.
 
 - SKILLS
+
+     Machine Learning
   
      PYTHON (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)
 
@@ -13,7 +17,7 @@
  
      Data Visualization
  
-     Machine Learning
+     Deep Learning
  
      Advance Excel
  
@@ -32,7 +36,7 @@
 
 📫   Reach me on Gmail:**erabattiamit@gmail.com**
 
-📝   Checkout my Resume: https://drive.google.com/file/d/1bhjyoAjC4xZ8FhhGLN3fYC-knbmOl8RI/view?usp=sharing
+📝   Checkout my Resume: https://drive.google.com/file/d/1UzGL_GTh1DtaBrLjrYDXpD_mWXmQVoPu/view?usp=sharing
 
 📊   Checkout my Power BI Projects.
 
