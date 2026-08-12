@@ -25,7 +25,7 @@ For more details about my projects and each solution, you can check my github re
  
      Data Wrangling and Analysis
 
-  Talking about Personal Stuffs:
+Talking about Personal Stuffs:
   
 🛠   I’m currently working with Machine Learning, Python, SQL, Deep Learning, Power BI and Excel
 
