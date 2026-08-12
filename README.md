@@ -11,7 +11,7 @@ For more details about my projects and each solution, you can check my github re
 
      Machine Learning(Scikit-learn)
   
-     PYTHON (NumPy, Pandas, Matplotlib, Seaborn, )
+     Python (NumPy, Pandas, Matplotlib, Seaborn, )
 
      SQL (MS SQL server)
  
