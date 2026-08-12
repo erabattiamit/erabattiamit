@@ -7,6 +7,10 @@
 Experienced in predictive modeling, exploratory data analysis, and dashboard development to deliver actionable insights and enhance operational efficiency.
 For more details about my projects and each solution, you can check my github repositories.
 
+📝 Certificates: NASSCOM certified Data Scientist
+                 IABAC certified Data Scientist
+                 Datamites certified Data Scientist
+
 - SKILLS
 
      Machine Learning(Scikit-learn)
@@ -42,10 +46,6 @@ For more details about my projects and each solution, you can check my github re
 📊   Checkout my Power BI Projects.
 
 📊   Checkout my Advanced Excel Projects.
-
-📝 Certificates: NASSCOM certified Data Scientist
-                 IABAC certified Data Scientist
-                 Datamites certified Data Scientist
               
 <h3 align="left">Connect with me:</h3>
 <p align="left">
