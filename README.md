@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erabattiamit&label=Profile%20views&color=0e75b6&style=flat" alt="erabattiamit" /> </p>
 
 - 🌱 Data Scientist and Machine Learning enthusiast skilled in Machine Learning, Python, SQL, Deep Learning, Power BI.
-Experienced in predictive modeling, exploratory data analysis, and dashboard development to deliver actionable insights and enhance operational efficiency. For more details about my projects and each solution, you can check my github repositories.
+Experienced in predictive modeling, exploratory data analysis, and dashboard development to deliver actionable insights and enhance operational efficiency.
+For more details about my projects and each solution, you can check my github repositories.
 
 - SKILLS
 
@@ -25,9 +26,10 @@ Experienced in predictive modeling, exploratory data analysis, and dashboard dev
      SQL (MS SQL server)
 
   Talking about Personal Stuffs:
+  
 🛠   I’m currently working with Machine Learning, Python, SQL, Deep Learning, Power BI and Excel
 
-🚀   I’m currently learning Power NLP and AI .
+🚀   I’m currently learning Power Artificial Intelligence and Natural Language Processing.
 
 👨🏻‍💻   Most of my projects are available on Github:https://github.com/erabattiamit
 
