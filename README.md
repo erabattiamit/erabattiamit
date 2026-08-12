@@ -13,7 +13,7 @@ For more details about my projects and each solution, you can check my github re
   
      PYTHON (NumPy, Pandas, Matplotlib, Seaborn, )
 
-     Data Wrangling and Analysis
+     SQL (MS SQL server)
  
      Data Visualization
  
@@ -23,7 +23,7 @@ For more details about my projects and each solution, you can check my github re
  
      Power BI
  
-     SQL (MS SQL server)
+     Data Wrangling and Analysis
 
   Talking about Personal Stuffs:
   
