@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Amit Erabatti</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Scientist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erabattiamit&label=Profile%20views&color=0e75b6&style=flat" alt="erabattiamit" /> </p>
 
-- 🌱 Data Scientist and Machine Learning enthusiast skilled in Python, SQL, Machine Learning and Deep Learning.
-Experienced in predictive modeling, exploratory data analysis, and dashboard development to deliver actionable
-insights and enhance operational efficiency. For more details about my projects and each solution, you can check my github repositories.
+- 🌱 Data Scientist and Machine Learning enthusiast skilled in Machine Learning, Python, SQL, Deep Learning, Power BI.
+Experienced in predictive modeling, exploratory data analysis, and dashboard development to deliver actionable insights and enhance operational efficiency. For more details about my projects and each solution, you can check my github repositories.
 
 - SKILLS
 
-     Machine Learning
+     Machine Learning(Scikit-learn)
   
-     PYTHON (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)
+     PYTHON (NumPy, Pandas, Matplotlib, Seaborn, )
 
      Data Wrangling and Analysis
  
      Data Visualization
  
-     Deep Learning
+     Deep Learning(Pytorch, TensorFlow)
  
      Advance Excel
  
@@ -26,9 +25,9 @@ insights and enhance operational efficiency. For more details about my projects 
      SQL (MS SQL server)
 
   Talking about Personal Stuffs:
-🛠   I’m currently working with Python, SQl and Excel
+🛠   I’m currently working with Machine Learning, Python, SQL, Deep Learning, Power BI and Excel
 
-🚀   I’m currently learning Power BI and SQL .
+🚀   I’m currently learning Power NLP and AI .
 
 👨🏻‍💻   Most of my projects are available on Github:https://github.com/erabattiamit
 
